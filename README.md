@@ -1,7 +1,7 @@
 # MGRS Extension Specification
 
 - **Title:** Military Grid Reference System
-- **Identifier:** <https://stac-extensions.github.io/mrs/v1.0.0/schema.json>
+- **Identifier:** <https://stac-extensions.github.io/mgrs/v1.0.0/schema.json>
 - **Field Name Prefix:** mgrs
 - **Scope:** Item
 - **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal

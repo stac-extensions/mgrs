@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://stac-extensions.github.io/mgrs/v1.0.0/schema.json#",
-  "title": "Template Extension",
+  "title": "MGRS Extension",
   "description": "STAC MGRS Extension for STAC Items.",
   "oneOf": [
     {
