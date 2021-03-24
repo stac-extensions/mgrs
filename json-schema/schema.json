@@ -103,7 +103,7 @@
           "type": "string"
         },
         "mgrs:utm_zone": {
-          "type": "string"
+          "type": "integer"
         }
       },
       "patternProperties": {
