@@ -40,9 +40,9 @@
   },
   "properties": {
     "datetime": "2020-12-11T22:38:32Z",
-    "mgrs:utm_zone": 10,
-    "mgrs:latitude_band": "",
-    "mgrs:grid_square": ""
+    "mgrs:utm_zone": 13,
+    "mgrs:latitude_band": "X",
+    "mgrs:grid_square": "DH"
   },
   "links": [
     {
@@ -52,7 +52,7 @@
   ],
   "assets": {
     "data": {
-      "href": "https://example.com/examples/file.xyz",
+      "href": "https://example.com/examples/file.xyz"
     }
   }
 }
