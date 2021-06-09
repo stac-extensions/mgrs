@@ -21,4 +21,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Initial release
 
 [Unreleased]: <https://github.com/stac-extensions/mgrs/compare/v1.0.0...HEAD>
-[v1.0.0]: <https://github.com/stac-extensions/mgrs/tree/v1.0.0>]
+[v1.0.0]: <https://github.com/stac-extensions/mgrs/tree/v1.0.0>
