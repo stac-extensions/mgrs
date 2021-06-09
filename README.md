@@ -26,7 +26,7 @@ The latitude band and grid squares are still used, but the UTM zone is not.
 | -------------------- | --------| ----------- |
 | mgrs:latitude_band   | string  | **REQUIRED**. The latitude band of the Item's centroid |
 | mgrs:grid_square     | string  | **REQUIRED**. MGRS grid square of the Item's centroid |
-| mgrs:utm_zone        | Number  | The UTM Zone of the Item centroid |
+| mgrs:utm_zone        | number  | The UTM Zone of the Item centroid |
 
 Between 80°S and 84°N UTM Zone is required. In the polar regions UTM zone is not provided.
 
