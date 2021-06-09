@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+## [v1.0.0] - 2021-06-09
+
+Initial release
 
 [Unreleased]: <https://github.com/stac-extensions/mgrs/compare/v1.0.0...HEAD>
 [v1.0.0]: <https://github.com/stac-extensions/mgrs/tree/v1.0.0>]
