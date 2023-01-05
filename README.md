@@ -4,7 +4,7 @@
 - **Identifier:** <https://stac-extensions.github.io/mgrs/v1.0.0/schema.json>
 - **Field Name Prefix:** mgrs
 - **Scope:** Item
-- **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal
+- **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Pilot
 - **Owner**: @matthewhanson
 
 The MGRS STAC extension adds fields to Items to define their location within the [Military Grid Reference System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System).
